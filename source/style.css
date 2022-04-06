@@ -1,0 +1,31 @@
+body {
+  background: #000000;
+  color: #00dd00;
+  font-family: consolas;
+}
+
+.setborder {
+  border-bottom: 2px solid #006600;
+}
+
+#topbanner {
+  background: #005500;
+  padding: 5px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.center {
+  margin: auto;
+  text-align: center;
+}
+
+#sourcebtn {
+  height: 25px;
+  color: #00ff00;
+  font-family: consolas;
+  font-weight: bold;
+  background: #005500;
+  border: 1px solid;
+}
